@@ -1,0 +1,10 @@
+{
+  "name": "ShareFlow",
+  "short_name": "ShareFlow",
+  "description": "Privacy-first universal media downloader",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D12",
+  "theme_color": "#0B0D12",
+  "icons": []
+}
