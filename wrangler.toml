@@ -1,0 +1,7 @@
+name = "shareflow-worker"
+main = "worker/src/index.ts"
+compatibility_date = "2026-05-24"
+workers_dev = true
+
+[vars]
+ENVIRONMENT = "development"
